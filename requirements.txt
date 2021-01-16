@@ -1,0 +1,10 @@
+ssqaapitest~=1.0
+PyMySQL~=0.9.3
+WooCommerce~=2.1.1
+requests~=2.23.0
+setuptools~=49.2.1
+SQLAlchemy~=1.3.22
+xmlschema~=1.4.1
+xmltodict~=0.12.0
+lxml2json~=0.2.6
+pytest~=5.4.2
